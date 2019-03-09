@@ -17,7 +17,7 @@ body {
 hr {
   max-width: 50px;
   border-width: 3px;
-  border-color: #260041;
+  border-color: #672EA3;
 }
 
 hr.light {
@@ -25,13 +25,13 @@ hr.light {
 }
 
 a {
-  color: #260041;
+  color: #672EA3;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
 
 a:hover {
-  color: #260041;
+  color: #672EA3;
 }
 h1,
 h2,
@@ -43,7 +43,7 @@ h6 {
 }
 
 .bg-primary {
-  background-color: #260041 !important;
+  background-color: #672EA3 !important;
 }
 
 .bg-dark {
@@ -100,12 +100,12 @@ img::-moz-selection {
 #mainNav .navbar-brand {
   font-weight: 700;
   text-transform: uppercase;
-  color: #260041;
+  color: #672EA3;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
 #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #260041;
+  color: #672EA3;
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link,
@@ -118,12 +118,12 @@ img::-moz-selection {
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-  color: #260041;
+  color: #672EA3;
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active {
-  color: #260041 !important;
+  color: #672EA3 !important;
   background-color: transparent;
 }
 
@@ -159,25 +159,26 @@ img::-moz-selection {
     background-color: #fff;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #260041;
+    color: #672EA3;
   }
   #mainNav.navbar-shrink .navbar-brand:focus, #mainNav.navbar-shrink .navbar-brand:hover {
-    color: #260041;
+    color: #672EA3;
   }
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link,
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus {
-    color: #212529;
+  color: #212529;
+  
   }
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:hover,
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-    color: #260041;
+    color: #672EA3;
   }
 }
 
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("../img/icaro.jpeg");
+  background-image: url("../img/icarofinal.jpg");
   background-position: center center;
   background-size: cover;
 }
@@ -287,7 +288,7 @@ header.masthead p {
 }
 
 .text-primary {
-  color: #260041 !important;
+  color: #672EA3 !important;
 }
 
 .btn {
@@ -303,8 +304,8 @@ header.masthead p {
 }
 
 .btn-primary {
-  background-color: #260041;
-  border-color: #260041;
+  background-color: #672EA3;
+  border-color: #672EA3;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
@@ -317,5 +318,5 @@ header.masthead p {
   box-shadow: 0 0 0 0.2rem rgba(36, 63, 71, 0.5) !important;
 }
 .melao {
-  color: #260041;
+  color: #672EA3;
 }
